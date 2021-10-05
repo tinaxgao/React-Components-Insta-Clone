@@ -1,6 +1,6 @@
 /* 
   Start here and work your way down the nested components.
-  Not all files in the project need code added.
+  Not all files in the project need code added
   Look at each file to see what props need to be passed!
 */
 
